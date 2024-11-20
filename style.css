@@ -117,8 +117,8 @@ h1 {
 }
 
 .verticalLine {
-  height: auto; /* Use 'auto' to let the line grow based on the container */
-  align-self: stretch; /* This makes the line stretch to match the height of the flex parent container */
+  height: auto;
+  align-self: stretch;
   width: 2px;
   background-color: var(--dark-gray);
 }
